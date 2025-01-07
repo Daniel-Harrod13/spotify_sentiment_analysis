@@ -11,7 +11,7 @@ Sentiment analysis is the process of determining the emotional tone behind a ser
 ## Results
 First lets look at the average sentiment score from this dataset
 
-![Alt text for your figure]( )
+![Alt text for your figure](figures/average_sentiment_score.png )
 
 
 

@@ -70,7 +70,27 @@ General Sentiment
 Words like “love,” “good,” and “better” reinforce that, on the whole, positive reviews highlight enjoyment, satisfaction, and improvement suggestions, rather than major complaints.
 Overall, the word cloud indicates that access to music, ease of use, and premium features are the chief reasons these reviewers are enthusiastic about the service.
 
-![Alt text for your figure]()
+![Alt text for your figure](figures/common_words.png)
+
+These two bar charts compare the most frequently used words in positive reviews (left) versus negative reviews (right). Although many of the same core terms appear in both (e.g., “app,” “songs,” “music,” “spotify,” “premium”), there are a few noteworthy differences:
+
+Overall Usage Volume
+The word “app” is the single most common term in both positive and negative reviews, which makes sense given they’re all about a mobile/desktop application.
+In positive reviews, “app” usage is extremely high, reflecting general praise (“Great app,” “Love the app,” etc.).
+In negative reviews, “app” is still the top word but often in a complaining context (“App crashes,” “App won’t load,” etc.).
+Positive Review Terms
+Words like “like,” “music,” “songs,” and “song” appear very frequently—often praising the ability to discover, play, or enjoy music.
+“Premium” shows up quite a bit on the positive side, suggesting users are happy with subscription features (fewer ads, higher quality, offline playback, etc.).
+“Listen” and “play” are also common, emphasizing that the core functionality (listening to music/podcasts) is a key reason for positive sentiment.
+Negative Review Terms
+While “songs,” “music,” and “spotify” also appear in negative reviews, they likely describe frustrations (e.g., missing songs, playback issues).
+“Play,” “premium,” and “playlist” also appear, possibly indicating complaints about subscription costs, playlist limitations, or ad interruptions.
+Words like “just” often crop up in negative reviews with phrases such as “It just doesn’t work” or “I just want it to play my music.”
+Context Matters
+Seeing the same words in both positive and negative lists doesn’t necessarily mean users feel the same way; the context behind how those words are used can differ drastically.
+For instance, “premium” in positive reviews may highlight satisfaction, whereas in negative reviews it may highlight cost frustration or unmet expectations.
+In short, both sets of reviews talk about the core Spotify features (app, songs, music, playlists, premium), but the sentiment behind those words diverges—praise vs. complaint—depending on the user experience.
+
 
 ## Conclusion
 

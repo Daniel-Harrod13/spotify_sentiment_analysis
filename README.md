@@ -33,7 +33,16 @@ This bar chart compares average sentiment scores (on the y-axis) against star ra
 0.34).
 Overall, the figure indicates that as the star rating increases, so does the average sentiment score. In other words, users who leave higher ratings also tend to use more positive language, while the 1-star reviews are slightly negative on average.
 
-![Alt text for your figure]()
+![Alt text for your figure](figures/sentiment_distribution.png)
+ This histogram shows how the sentiment scores (ranging roughly from -1 to +1) are distributed across all reviews. A few key observations:
+
+Peak Around Zero
+The highest bar (tallest peak) is near 0.0 on the sentiment scale, indicating that a large portion of reviews are “neutral” or have very mild positive/negative language.
+Spread into Negative and Positive
+While most scores cluster around neutral (0.0), there is a noticeable spread in both the negative (left) and positive (right) directions. The negative tail extends down to around -1, and the positive tail up to around +1, though these extremes contain fewer reviews.
+Slight Skew
+There appear to be more reviews with slightly positive scores than strongly negative ones. Nonetheless, the bulk of the distribution is centered near zero, suggesting that, overall, reviewers tend to use language that isn’t strongly polarized one way or the other.
+Overall, the chart tells you that most of the text sentiment in these reviews is near neutral, with a moderate portion that leans positive and a smaller portion that leans more strongly negative.
 
 
 ## Conclusion

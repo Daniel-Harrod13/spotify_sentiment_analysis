@@ -54,6 +54,23 @@ Neutral: ~33.4%
 Negative: ~4.2%
 The takeaway is that most of the reviews (nearly two-thirds) have a positive sentiment, while about one-third are neutral, and only a small fraction is negative. Overall, the sentiment skew is strongly positive.
 
+![Alt text for your figure](figures/positive_reviews_wordcloud.png)
+
+This word cloud gives a quick visual snapshot of the most frequently mentioned words in positive reviews. The larger or bolder the word, the more often it appears. Here are a few key takeaways:
+
+Listening & Music
+Words like “song,” “listen,” “playlist,” “app,” and “music” dominate, reflecting that people often praise the ability to discover and play songs or playlists.
+Spotify & Premium
+References to “spotify” and “premium” highlight how many users talk about the service’s paid features—often noting they enjoy ad-free listening, better audio quality, or other premium perks.
+Podcasts
+The word “podcast” appears prominently, indicating that podcasts are a positive factor for many reviewers as part of their overall listening experience.
+Ads & Issues
+Interestingly, “ad” and “issue” show up even in the positive word cloud—usually in the context of wanting fewer ads or praising the app despite minor issues they’ve run into.
+General Sentiment
+Words like “love,” “good,” and “better” reinforce that, on the whole, positive reviews highlight enjoyment, satisfaction, and improvement suggestions, rather than major complaints.
+Overall, the word cloud indicates that access to music, ease of use, and premium features are the chief reasons these reviewers are enthusiastic about the service.
+
+![Alt text for your figure]()
 
 ## Conclusion
 

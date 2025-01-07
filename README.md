@@ -45,6 +45,15 @@ Slight Skew
 There appear to be more reviews with slightly positive scores than strongly negative ones. Nonetheless, the bulk of the distribution is centered near zero, suggesting that, overall, reviewers tend to use language that isn’t strongly polarized one way or the other.
 Overall, the chart tells you that most of the text sentiment in these reviews is near neutral, with a moderate portion that leans positive and a smaller portion that leans more strongly negative.
 
+![Alt text for your figure](figures/sentiment_category_distribution.png)
+
+This pie chart shows the proportion of reviews falling into each sentiment category. From the percentages given:
+
+Positive: ~62.4%
+Neutral: ~33.4%
+Negative: ~4.2%
+The takeaway is that most of the reviews (nearly two-thirds) have a positive sentiment, while about one-third are neutral, and only a small fraction is negative. Overall, the sentiment skew is strongly positive.
+
 
 ## Conclusion
 

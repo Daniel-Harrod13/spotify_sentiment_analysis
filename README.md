@@ -33,6 +33,7 @@ This bar chart compares average sentiment scores (on the y-axis) against star ra
 0.34).
 Overall, the figure indicates that as the star rating increases, so does the average sentiment score. In other words, users who leave higher ratings also tend to use more positive language, while the 1-star reviews are slightly negative on average.
 
+![Alt text for your figure]()
 
 
 ## Conclusion

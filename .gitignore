@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Environment Variables
+.env
+
+# Other files/directories to ignore
+node_modules/
+.DS_Store

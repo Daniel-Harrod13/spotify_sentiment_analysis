@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Sentiment Analysis with Spotify Data
 
 This repository contains code and resources for performing sentiment analysis on Spotify data. 
